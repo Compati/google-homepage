@@ -1,0 +1,86 @@
+/* CSS Styles */
+header{
+    display: grid;
+    align-items: auto;
+}
+nav.toplnav{
+    list-style-type: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    float: left;
+}
+li.topleft {
+    float: left;
+}
+li a{
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul.tr{
+    display; flex;
+    flex-direction: row-reverse;
+}
+li.topright{
+    list-style-type: none;
+    top: 0;
+    right: 0;
+    float: right;
+}
+nav.toprnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav.botlnav{
+    position: absolute; 
+    Left: 0;
+    bottom: 0;
+    float: left;
+}
+li.botleft{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+a{
+    display: block;
+    padding: 8px;
+}
+nav.botrnav{
+    position: absolute;
+    Right: 0;
+    bottom: 0;
+    float: right;
+}
+li.botright{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+.content{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#magnifier{
+    
+}
+.search{
+    text-align: center;
+}
+.submit{
+   text-align: center;   
+}
+#footer-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border-top: 1px solid #e4e4e4;
+    background-color: #f2f2f2;
+}
