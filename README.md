@@ -1,1 +1,2 @@
 Deconstructing and rebuilding a webpage - First HTML project
+Still learning a lot of the nuances of HTML and CSS, but by inspecting several different pages and reworking a big part of the page I was finally able to get a similar looking google search page.  
